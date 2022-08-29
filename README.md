@@ -1,16 +1,9 @@
 # youaresafe
 
-A new Flutter project.
+[youaresafe!](https://github.com/youaresafe/youaresafe) (YAS!) is a cross-platform Flutter app that allows you to look up trigger warnings for movies and TV shows.
 
-## Getting Started
+YAS! is based on publically available [IMDb data files](https://datasets.imdbws.com) and uses [Firebase](https://firebase.google.com) as a backend.
 
-This project is a starting point for a Flutter application.
+## Note
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is heavily work in progress. 😌
