@@ -1,3 +1,6 @@
+# Data
+assets/imdb.sqlite
+
 # Miscellaneous
 *.class
 *.log
